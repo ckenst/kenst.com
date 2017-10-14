@@ -66,7 +66,7 @@ a:hover, a:focus, .site-header a:hover, a:active, .logo_text:hover, .current-men
     margin-bottom: 0;
 }
 
-.the-list-item-link, 
+.the-list-item-link,
 .the-current-list-item {
     color: #101c38;
     display: -webkit-box;
@@ -84,7 +84,7 @@ a:hover, a:focus, .site-header a:hover, a:active, .logo_text:hover, .current-men
 }
 
 @media screen and (max-width: 601px) {
-    .the-list-item-link, 
+    .the-list-item-link,
     .the-current-list-item {
         display: block;
     }
@@ -159,12 +159,22 @@ a:hover, a:focus, .site-header a:hover, a:active, .logo_text:hover, .current-men
 .the-month {
     font-size: 18px;
     margin-bottom: 0;
-    color: rgba(0,0,0,.4);    
+    color: rgba(0,0,0,.4);
 }
 
 .the-year {
     font-size: 20px;
     margin-top: 2.8rem;
     margin-bottom: 0;
-    color: rgba(0,0,0,.4);    
+    color: rgba(0,0,0,.4);
+}
+
+#contact-links {
+	list-style: none;
+	font-size: 16px;
+}
+
+#contact-links li {
+	display: inline-block;
+	text-align: center;
 }
