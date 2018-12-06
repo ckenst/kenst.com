@@ -1,8 +1,8 @@
 # README
 
-Software Quality accelerator, Test Engineer extraordinaire, writer and so much [more](https://www.kenst.com/about). Software is eating The World, prepare to reboot it.
+Automation Engineer | Speaker | Writer | Board Member. Created and maintains an OSS list of testing conferences and workshops. 
 
-Repo for [Chris Kenst's Blog](https://www.kenst.com), a modified theme by [ThemeBeans](https://themebeans.com/themes/stash/) called Stash. If you like it I highly recommend buying one for yourself.  
+Repo for my [namesake website](https://www.kenst.com), a modified theme by [ThemeBeans](https://themebeans.com/themes/stash/) called Stash. If you like it I highly recommend buying one for yourself.  
 
 Possible new additions or revisions to "profile":
 
