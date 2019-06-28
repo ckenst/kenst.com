@@ -1,12 +1,11 @@
 # README
 
-Automation Engineer | Speaker | Writer | Board Member. Created and maintains an OSS list of testing conferences and workshops. 
+Automation Engineer | Speaker | Writer | Board Member. Created and maintains an OSS list of [testing conferences and workshops](http://testingconferences.org/).
 
-Repo for my [namesake website](https://www.kenst.com), a modified theme by [ThemeBeans](https://themebeans.com/themes/stash/) called Stash. If you like it I highly recommend buying one for yourself.  
+Repo for [Kenst.com]](https://www.kenst.com), a modified *open source* theme by [ThemeBeans](https://themebeans.com/) called [Stash](https://github.com/themebeans/stash). If you like it, fork it and use it.
 
-Possible new additions or revisions to "profile":
 
-- Connecting my mind to the world through this internet machine.
-- Software is eating The World, prepare to reboot it.
-- Modern Testing, Startups, Quality accelerator, writer and so much more. Maintains an OSS list of conferences at http://testingconferences.org
-- Link to the about page?
+File breakdown:
+
+- PreWp5 are file changes for pre-2.0 Stash files for pre-WP 5.0
+- stash-child are post-2.0 Stash files for post-WP 5.0
