@@ -2,7 +2,7 @@
 
 Automation Engineer | Speaker | Writer | Board Member. Created and maintains an OSS list of [testing conferences and workshops](http://testingconferences.org/).
 
-Repo for [Kenst.com]](https://www.kenst.com), a modified *open source* theme by [ThemeBeans](https://themebeans.com/) called [Stash](https://github.com/themebeans/stash). If you like it, fork it and use it.
+Repo for [Kenst.com](https://www.kenst.com), a modified *open source* theme by [ThemeBeans](https://themebeans.com/) called [Stash](https://github.com/themebeans/stash). If you like it, fork it and use it.
 
 
 File breakdown:
